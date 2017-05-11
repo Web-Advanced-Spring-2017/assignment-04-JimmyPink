@@ -1,0 +1,29 @@
+{
+  "name": "trees",
+  "version": "1.0.0",
+  "description": "trees for computational photo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyPink/trees.git"
+  },
+  "keywords": [
+    "trees",
+    "new",
+    "york"
+  ],
+  "author": "jim pinkenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JimmyPink/trees/issues"
+  },
+  "homepage": "https://github.com/JimmyPink/trees#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  }
+}
